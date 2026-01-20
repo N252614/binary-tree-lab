@@ -145,3 +145,20 @@ Once your lab is complete and all tests are passing:
 
 - Push your code to GitHub.
 - Submit the link to your repo through **Canvas using CodeGrade**.
+
+
+# Binary Tree Lab – Depth and Ancestors
+
+This project implements two fundamental binary tree algorithms:
+
+- Maximum depth of a binary tree
+- Lowest Common Ancestor (LCA) in a Binary Search Tree
+
+## How to Run
+
+1. Clone the repository
+2. Run the tests:
+
+```bash
+python binary_tree_tests.py
+```
